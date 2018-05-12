@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '43752'
     url: http://www.gutenberg.org/2009/agents/43752
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46381#The-Lead-of-Honour
 gutenberg_issued: '2014-07-22'
 gutenberg_type: Text
 identifiers:
