@@ -1,0 +1,38 @@
+_repo: The-Lead-of-Honour_46381
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Merrill, Frank T.
+    aliases:
+    - Merrill, F. T.
+    - Merrill, Frank Thayer
+    birthdate: 1848
+    gutenberg_agent_id: '6202'
+    url: http://www.gutenberg.org/2009/agents/6202
+covers:
+- cover_type: archival
+  image_path: 46381-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Richardson, Norval
+    birthdate: 1877
+    deathdate: 1940
+    gutenberg_agent_id: '43752'
+    url: http://www.gutenberg.org/2009/agents/43752
+description: ''
+gutenberg_issued: '2014-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46381'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natchez (Miss.) -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Lawyers -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Mississippi -- Social life and customs -- 19th century -- Fiction'
+title: The Lead of Honour
+url: http://www.gutenberg.org/ebooks/46381
